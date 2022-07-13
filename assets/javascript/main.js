@@ -16,7 +16,7 @@ button.addEventListener("click",function(){
     }
     if(radio.checked){
         
-        document.getElementById("image2").style.display="inline";
+        document.getElementById("image2").style.display="block";
     }
 
     
